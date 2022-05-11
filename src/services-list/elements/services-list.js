@@ -1,4 +1,3 @@
-import {setState} from "react";
 import ServiceItem from "./service-item";
 import {useSelector} from "react-redux";
 
